@@ -7,16 +7,20 @@ The [NXP PMSM Electrical Parameters Measurement](https://www.nxp.com/docs/en/app
 <img src="images/Setup.png" width="200">
 
 
-
 ###  Calculations
 The first measurement that needs to be taken is to determine the resistance of the stator. This value could be taken from the datasheet, but the results from my measurements are not consistent with the datasheet, but are reasonably consistent between my 4 wire resistance measurement and oscilloscope measurement. To take this measurement using an oscilloscope simply take a measurment of the voltage drop during steady state current conditions per the equation shown below.
+
 <img src="images/Resistance.png" width="100">
 
 Or, use a 4-wire multimeter as shown below:
 
-<img src="images/4_wire.png" width="100">
+<img src="images/4_wire.png" width="200">
+
+Set your oscilloscope time divisions and amplitude to capture the transcient of the stator coils charging. And then determine the LR time constant. See the NXP document for more information.
 
 <img src="images/Ld_eqn.png" width="100">
+
+The calculation is the same for the Lq case.
 
 <img src="images/Lq_eqn.png" width="100">
 
@@ -25,6 +29,8 @@ Shown below is a measurement of one of the key parameters Lq.
 
 <img src="images/Lq.png" width="200">
 
+#### Values for A2212 13T 1000KV
+<img src="images/Resultant_Calculations.png" width="200">
 
 ## Acknowledgements
 [NXP PMSM Electrical Parameters Measurement](https://www.nxp.com/docs/en/application-note/AN4680.pdf)
