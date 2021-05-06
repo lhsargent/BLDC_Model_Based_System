@@ -1,0 +1,5 @@
+ArduinoPinHandleMap.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2020b/toolbox/target/supportpackages/arduinobase/src/ArduinoPinHandleMap.cpp \
+ C:/Users/HP/Documents/GitHub/BLDC_Model_Based_System/Six_Step_Arduino_Simulink_ert_rtw/rtwtypes.h
+
+C:/Users/HP/Documents/GitHub/BLDC_Model_Based_System/Six_Step_Arduino_Simulink_ert_rtw/rtwtypes.h:

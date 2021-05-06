@@ -1,0 +1,11 @@
+rtGetNaN.o: \
+ C:/Users/HP/Documents/GitHub/BLDC_Model_Based_System/Six_Step_Arduino_Simulink_ert_rtw/rtGetNaN.c \
+ C:/Users/HP/Documents/GitHub/BLDC_Model_Based_System/Six_Step_Arduino_Simulink_ert_rtw/rtGetNaN.h \
+ C:/Users/HP/Documents/GitHub/BLDC_Model_Based_System/Six_Step_Arduino_Simulink_ert_rtw/rtwtypes.h \
+ C:/Users/HP/Documents/GitHub/BLDC_Model_Based_System/Six_Step_Arduino_Simulink_ert_rtw/rt_nonfinite.h
+
+C:/Users/HP/Documents/GitHub/BLDC_Model_Based_System/Six_Step_Arduino_Simulink_ert_rtw/rtGetNaN.h:
+
+C:/Users/HP/Documents/GitHub/BLDC_Model_Based_System/Six_Step_Arduino_Simulink_ert_rtw/rtwtypes.h:
+
+C:/Users/HP/Documents/GitHub/BLDC_Model_Based_System/Six_Step_Arduino_Simulink_ert_rtw/rt_nonfinite.h:
